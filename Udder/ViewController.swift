@@ -20,5 +20,8 @@ class ViewController: UIViewController {
         <#code#>
     }
 
+    override func viewWillAppear(_ animated: Bool) {
+        <#code#>
+    }
 }
 
